@@ -1,5 +1,5 @@
 # Factorial
-A method that receives and int and returns its factorial value
+A method that receives an int and returns its factorial value
 
 ![image](https://user-images.githubusercontent.com/81270107/169154490-b5e9fb99-a13c-41da-9695-673e15cb842f.png)
 ![image](https://user-images.githubusercontent.com/81270107/169154525-6cec85e5-bba0-4057-807d-a22b88f3a44e.png)
