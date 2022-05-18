@@ -7,5 +7,5 @@ A method that receives and int and returns its factorial value
 ## TEST and USE Instructions:
 1) Creat a new project in your prefered IDE;
 2) Import FactorialRecursion.java into the src folder on your IDE;
-3) Run FactorialRecursion.java class;
+3) Run TestFactorial in the FactorialRecursion.java class;
 4) The program will ask for keyboard input, type your number.
